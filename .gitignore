@@ -28,3 +28,4 @@ vex/.back/bin
 vex/.back/include
 vex/.back/lib
 vex/.back/lib64
+vex/bootstrap
